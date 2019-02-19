@@ -1,0 +1,21 @@
+{
+  "name": "image-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "body-parser": "*",
+    "formidable": "*",
+    "cors": "*"
+  },
+  "devDependencies": {
+    "nodemon": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}
